@@ -1,9 +1,9 @@
 ## Hey, ici Bryan
 
 ♣️ Je suis un développeur full-stack junior ayant une préférence pour la partie front-end. </br>
-♥️ En ce moment, sur mes heures perdues, je développe un jeu vidéo en 2D. </br>
-♠️ J'ai pour ambition de consolider mes compétances en poursuivant mes études au CESI. </br>
-♦️ Je suis présentement à la recherche d'une alternance sur la zone de Rouen (76). </br>
+♥️ J'ai pour ambition de consolider mes compétances en poursuivant mes études au CESI. </br>
+♠️ Je suis présentement à la recherche d'une alternance sur la zone de Rouen (76). </br>
+♦️ En ce moment, sur mes heures perdues, je développe un jeu vidéo en 2D. </br>
 
 🍀 Vous pouvez retrouver mes differents liens (Linkedin, Mail et Portfolio) [ici](https://linktr.ee/festinbryan).
 
